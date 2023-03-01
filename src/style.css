@@ -1,0 +1,21 @@
+.sq{
+  width:40px;
+  height: 40px;
+  background:#467cec;
+}
+.druhy .sq{
+  background:#8a2971;
+}
+.obal{
+  width: 575px;
+  height: 80px;
+  border: solid 2px #467cec;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.druhy{
+  background:#eb6e3e;
+}
